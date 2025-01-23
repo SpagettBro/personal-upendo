@@ -1,7 +1,7 @@
 # Personal Upendo
 
 ## Overzicht
-**Personal Upendo** dit is mijn persoonlijke repository voor het Upendo groepsproject, gericht op het ontwikkelen van een webapplicatie met behulp van TypeScript voor 2ManyDots. Het project bevat verschillende componenten die gebruikt worden voor de opbouw van de pagina's.
+Dit is mijn persoonlijke repository voor het Upendo groepsproject, gericht op het ontwikkelen van een webapplicatie met behulp van TypeScript voor 2ManyDots. Het project bevat verschillende componenten die gebruikt worden voor de opbouw van de pagina's.
 
 ---
 
